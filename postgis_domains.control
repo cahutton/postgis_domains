@@ -1,0 +1,6 @@
+# postgis_domains extension
+comment = 'PostGIS domains'
+default_version = '1.0'
+relocatable = true
+requires = 'postgis'
+superuser = false
