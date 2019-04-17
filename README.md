@@ -5,7 +5,7 @@ A PostgreSQL extension defining custom PostGIS domains
 
 ### Prerequisites
 
-This extension expects the latest versions of PostgreSQL and PostGIS, but should work for all recent versions.
+This extension was developed using PostgreSQL 10 and PostGIS 2.5, but should work for all recent versions.
 
 ### Installation
 
